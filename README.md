@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Mate</h1>
-<h3 align="center">A passionate ML/AI developer from India, who also dabbles in other aspects of software engineering</h3>
+<h3 align="center">A passionate developer from India, who is interested in Systems Programming and AI/ML</h3>
 
-- 🌱 I’m currently learning **Computer Vision, GoLang**
+- 🌱 I’m currently working an **Online Coding Judge** and **Graph Neural Network Based Recommender System**
 
 - 📫 How to reach me **10b37shubhammate@gmail.com**
 
